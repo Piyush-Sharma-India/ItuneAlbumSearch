@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Album Search</string>
+    <string name="menu_filter">Filter</string>
+    <string name="cart">Album Cart</string>
+
+    <string-array name="list_albums_array">
+        <item>@string/release_date</item>
+        <item>@string/artist_name</item>
+        <item>@string/collection_name</item>
+        <item>@string/track_name</item>
+    </string-array>
+
+    <string name="search_album">Search Album</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="collection_name">Collection Name</string>
+    <string name="track_name">Track Name</string>
+    <string name="release_date">Release Date</string>
+
+    <string name="artist_name_value">Artist: %1$s</string>
+    <string name="collection_name_value">Collection: %1$s</string>
+    <string name="collection_price_value">Price: %1$s</string>
+    <string name="track_name_value">Track: %1$s</string>
+    <string name="release_date_value">Release Date: %1$s</string>
+    <string name="no_albums_available">No Albums Available</string>
+    <string name="no_cart_data_available">Album Cart Data Not Available</string>
+
+</resources>
